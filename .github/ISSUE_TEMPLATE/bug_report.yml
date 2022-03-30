@@ -12,8 +12,8 @@ body:
         * Read the [FAQ](https://github.com/TakosThings/Fluent-Discord/wiki/FAQ) and other help articles on the [Wiki](https://github.com/TakosThings/Fluent-Discord/wiki)
         * Disable all plugins. Open a [Plugin Compatibility Request](https://github.com/TakosThings/Fluent-Discord/issues/new?assignees=&labels=better+discord%2Cplugin+compatibility&template=plugin_compat.yml&title=Plugin+name+here) instead if the plugin is not already on the [compatible list](https://github.com/TakosThings/Fluent-Discord/wiki/Plugin-Compatibility).
         * Have searched and made sure your issue hasn't been reported before
-
-        * Make sure to give your bug a descriptive title
+        
+        Make sure to give your bug a descriptive title
   - type: textarea
     attributes:
       label: Description
