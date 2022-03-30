@@ -15,7 +15,7 @@ body:
 
         * Make sure to give your bug a descriptive title
   - type: textarea
-    arrtibutes:
+    attributes:
       label: Description
       description: What is wrong, and why is it incorrect?
     validations:
